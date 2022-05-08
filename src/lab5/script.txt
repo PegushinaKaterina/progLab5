@@ -1,0 +1,15 @@
+show
+remove_by_id 3
+history
+add
+hfweb
+777
+777
+да
+да
+8
+екпав
+8
+BAT
+да
+execute_script script1
